@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto bloque 4 fismatebio", "Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio.csproj", "{B33D4F8A-D486-4014-A0AD-0BD6448A91CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33D4F8A-D486-4014-A0AD-0BD6448A91CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33D4F8A-D486-4014-A0AD-0BD6448A91CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33D4F8A-D486-4014-A0AD-0BD6448A91CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33D4F8A-D486-4014-A0AD-0BD6448A91CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

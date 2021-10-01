@@ -1,0 +1,32 @@
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\bin\Debug\Proyecto bloque 4 fismatebio.exe.config
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.csprojResolveAssemblyReference.cache
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form1.resources
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Properties.Resources.resources
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.csproj.GenerateResource.Cache
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\bin\Debug\Proyecto bloque 4 fismatebio.exe
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\bin\Debug\Proyecto bloque 4 fismatebio.pdb
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.exe
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.pdb
+D:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\bin\Debug\Proyecto bloque 4 fismatebio.exe.config
+D:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.exe
+D:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.pdb
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form2.resources
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form3.resources
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form4.resources
+F:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form5.resources
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\bin\Debug\Proyecto bloque 4 fismatebio.exe.config
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.exe
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.pdb
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\bin\Debug\Proyecto bloque 4 fismatebio.exe
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\bin\Debug\Proyecto bloque 4 fismatebio.pdb
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.csprojResolveAssemblyReference.cache
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form1.resources
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form2.resources
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form3.resources
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form4.resources
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Form5.resources
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto_bloque_4_fismatebio.Properties.Resources.resources
+E:\INFO SEMESTRE4\Proyecto bloque 4 fismatebio\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.csproj.GenerateResource.Cache
+E:\INFO SEMESTRE4\Jeopardy Val\Proyecto bloque 4 fismatebio\bin\Debug\Proyecto bloque 4 fismatebio.exe.config
+E:\INFO SEMESTRE4\Jeopardy Val\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.exe
+E:\INFO SEMESTRE4\Jeopardy Val\Proyecto bloque 4 fismatebio\obj\Debug\Proyecto bloque 4 fismatebio.pdb
